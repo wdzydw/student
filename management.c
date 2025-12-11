@@ -1,4 +1,6 @@
 #include"management.h"
+struct student stu[MAX_STU];
+int stu_count = 0;
 void input()
 {
 	scanf
